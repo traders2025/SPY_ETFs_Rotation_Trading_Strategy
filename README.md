@@ -12,5 +12,5 @@
 ## Buy and Hold results etfs
 * csv result files of buy and hold strategy of each etf
 * etfname_bh.csv is the naming convention
-## csv file related to 11 etfs
+## csv files related to 11 etfs
 * For all the three combinations i.e. 344,434 & 443 all the rebalancing results were saved separately
