@@ -14,3 +14,5 @@
 * etfname_bh.csv is the naming convention
 ## csv files related to 11 etfs
 * For all the three combinations i.e. 344,434 & 443 all the rebalancing results were saved separately
+## detailed tables pdf
+* This has all the results tabulated pertaining to the trading strategy
